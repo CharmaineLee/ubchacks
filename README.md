@@ -1,3 +1,3 @@
-UBC Hacks Website
+UBC Hacks 2016 Website
 
-http://ubchacks.me/
+Check out the new site [here](http://ubchacks.me/)!
